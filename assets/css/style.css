@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+.box{
+    background-color: white; 
+}
+
+.crystal-image {
+    width: 100px;
+    height: 100px;
+  }
